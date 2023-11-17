@@ -1,0 +1,26 @@
+body{
+    
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    display:flex;
+    justify-content:space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;;
+}
+a{
+    color: white;
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+}
+
+span.carregando{
+    width: 60px;
+    height: 60px;
+    background-color: crimson;
+}
